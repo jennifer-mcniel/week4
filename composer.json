@@ -1,0 +1,13 @@
+{
+  "name": "jmcniel/328/week4",
+  "authors": [
+    {
+      "name": "Jennifer McNiel",
+      "email": "mcniel.jennifer@student.greenriver.edu"
+    }
+  ],
+  "require":
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
